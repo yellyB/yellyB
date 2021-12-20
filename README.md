@@ -1,5 +1,8 @@
 
 # This is bomiKim's GitHub :bug:
+:pencil: 알고리즘 푸는걸 좋아하고<br/>
+:bicyclist: 운동과 :violin: 악기 연주가 취미인<br/>
+:heavy_exclamation_mark: 이유있는 코드를 작성하고 싶은 개발자입니다.
 
 <!-- ## Skils -->
     
