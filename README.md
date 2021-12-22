@@ -33,8 +33,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo-appveyor&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo-appveyor&logo=C Sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo-appveyor&logo=.NET&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo-appveyor&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo-appveyor&logo=C++&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo-appveyor&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo-appveyor&logo=C++&logoColor=white"/>
 </div>
 
 
