@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo-appveyor&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo-appveyor&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo-appveyor&logo=MobX&logoColor=white"/>
+  <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo-appveyor&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo-appveyor&logo=ESLint&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo-appveyor&logo=Prettier&logoColor=white"/>
 </div>
