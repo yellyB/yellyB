@@ -1,7 +1,7 @@
 
 # This is bomiKim's GitHub :bug:
 :pencil: 알고리즘 푸는걸 좋아하고<br/>
-:bicyclist: 운동과 :violin: 악기 연주가 취미인<br/>
+:partying_face: 커뮤니케이션을 중요시하는 <br/>
 :heavy_exclamation_mark: 이유있는 코드를 작성하고 싶은 개발자입니다.<br/><br/>
 21.12.12~   1일 1커밋 도전 중! :ant::ant: 
 
