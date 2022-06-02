@@ -1,8 +1,9 @@
 
 # This is bomiKim's GitHub :bug:
-:pencil: 알고리즘 푸는걸 좋아하고<br/>
-:partying_face: 읽기 쉬운 코드가 좋은 코드라고  <br/>
-:heavy_exclamation_mark: 이유있는 코드를 작성하고 싶은 개발자입니다.<br/><br/>
+:pencil: 알고리즘 푸는걸 좋아하고  
+:partying_face: 읽기 쉬운 코드가 좋은 코드라고 믿는  
+:heavy_exclamation_mark: 이유있는 코드를 작성하고 싶은 개발자입니다.      
+  
 21.12.12~   1일 1커밋 도전 중! :ant::ant: 
 
 ## Skils
